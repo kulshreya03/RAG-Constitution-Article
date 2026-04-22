@@ -1,0 +1,7 @@
+datasets
+qdrant-client
+sentence-transformers
+langchain_google_genai
+dotenv
+langchain_core
+langchain
